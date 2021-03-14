@@ -1,5 +1,5 @@
 # pelckmans-saver
-A book saver for pelckmansportaal
+A book downloader for pelckmansportaal
 
 ## How to use it
 Open the book you want and look at the url copy the first part (https://oauth.digiboek.be/nl/magazine/x/y
