@@ -1,0 +1,4 @@
+venv/
+.idea/
+pages/
+test.py
